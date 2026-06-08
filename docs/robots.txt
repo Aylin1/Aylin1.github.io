@@ -1,1 +1,1 @@
-Sitemap: https://drganghe.github.io/quarto-academic-website-template/sitemap.xml
+Sitemap: https://aylin1.github.io/aylingulum.github.io/sitemap.xml

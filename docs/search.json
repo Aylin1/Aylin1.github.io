@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "publications.html",
@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Aylin Gülüm",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nI am a Data Scientist / ML Engineer, specializing in Computer Vision, Heterogenious (Sensor) Data Fusion, and Time Series Aggregation Analytics. My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights.\n\n\n\n\n\n\nEvaluating Impact of Data Augmentation on LiDAR + RGBI Fusion - Achieved IoU improvement: 70.4% → 75.1% via multimodal fusion - Implemented U-Net variants (HRNet-inspired, FusionNet-inspired) - Extracted structural layers from 3D point cloud data\n\n\n\n\nBuilt vegetation segmentation pipeline for digital twin concepts.\nCompared HRNet vs. LangSAM performance with conceptual alert system for severity classification.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRole\nOrganization\nPeriod\nKey Contributions\n\n\n\n\nData Scientist\nThe Mobility House GmbH (Munich)\nDec 2023 – Sep 2024\nBuilt Python/SQL pipelines for EV charging session time-series data; fuzzy clustering for customer segmentation; Grafana KPI dashboards\n\n\nData Analyst\nADHOC Research & Consultancy (Istanbul)\nJan 2019 – Feb 2020\nAnalytical reports using Excel/SPSS; systematic data validation procedures across public/private sector clients\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDomain\nTools & Technologies\n\n\n\n\nMachine Learning\nPyTorch, TensorFlow/Keras, scikit-learn, Fuzzy Clustering, RoBERTa\n\n\nComputer Vision\nOpenCV, Albumentations, Rasterio, Semantic Segmentation, CNN, LiDAR Processing\n\n\nData Engineering\nPython, SQL, Pandas, Flask, Git/GitHub, Docker\n\n\nLanguages\nPython (Primary), SQL, R\n\n\n\n\n\n\n\nM.Sc., Project Management & Data Science | HTW Berlin | Oct 2022 – May 2025\nB.Sc., Molecular Biology and Genetics | Bogazici University | Sep 2011 – Jan 2019"
   },
   {
     "objectID": "index.html#experience",
@@ -107,9 +107,9 @@
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Aylin Gülüm",
     "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "M.Sc., Project Management & Data Science | HTW Berlin | Oct 2022 – May 2025\nB.Sc., Molecular Biology and Genetics | Bogazici University | Sep 2011 – Jan 2019"
   },
   {
     "objectID": "index.html#recent-posts",
@@ -165,6 +165,41 @@
     "href": "pub-listing.html#peer-reviewed-journal-papers",
     "title": "Publications",
     "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Aylin Gülüm Publications – Aylin Gülüm Publications – Aylin Gülüm Aylin Gülüm Portfolio of Aylin Gülüm: Data Science, Computer Vision & EV Analytics. Portfolio of Aylin Gülüm: Data Science, Computer Vision & EV Analytics. Portfolio of Aylin Gülüm: Data Science, Computer Vision & EV Analytics."
+  },
+  {
+    "objectID": "index.html#hi-im-aylin-gülüm",
+    "href": "index.html#hi-im-aylin-gülüm",
+    "title": "Aylin Gülüm",
+    "section": "",
+    "text": "I am a Data Scientist based in Bonn, Germany, specializing in Computer Vision, LiDAR Data Fusion, and Electric Vehicle Aggregation Analytics. My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights.\n📍 Location: Bonn, Germany\n🎓 Education: M.Sc. Project Management & Data Science, HTW Berlin (May 2025)\n💼 Experience: Mobility House GmbH (Munich), ADHOC Research (Istanbul)"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Aylin Gülüm",
+    "section": "",
+    "text": "Evaluating Impact of Data Augmentation on LiDAR + RGBI Fusion - Achieved IoU improvement: 70.4% → 75.1% via multimodal fusion - Implemented U-Net variants (HRNet-inspired, FusionNet-inspired) - Extracted structural layers from 3D point cloud data\n\n\n\n\nBuilt vegetation segmentation pipeline for digital twin concepts.\nCompared HRNet vs. LangSAM performance with conceptual alert system for severity classification."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Aylin Gülüm",
+    "section": "",
+    "text": "Role\nOrganization\nPeriod\nKey Contributions\n\n\n\n\nData Scientist\nThe Mobility House GmbH (Munich)\nDec 2023 – Sep 2024\nBuilt Python/SQL pipelines for EV charging session time-series data; fuzzy clustering for customer segmentation; Grafana KPI dashboards\n\n\nData Analyst\nADHOC Research & Consultancy (Istanbul)\nJan 2019 – Feb 2020\nAnalytical reports using Excel/SPSS; systematic data validation procedures across public/private sector clients"
+  },
+  {
+    "objectID": "index.html#technical-toolkit",
+    "href": "index.html#technical-toolkit",
+    "title": "Aylin Gülüm",
+    "section": "",
+    "text": "Domain\nTools & Technologies\n\n\n\n\nMachine Learning\nPyTorch, TensorFlow/Keras, scikit-learn, Fuzzy Clustering, RoBERTa\n\n\nComputer Vision\nOpenCV, Albumentations, Rasterio, Semantic Segmentation, CNN, LiDAR Processing\n\n\nData Engineering\nPython, SQL, Pandas, Flask, Git/GitHub, Docker\n\n\nLanguages\nPython (Primary), SQL, R"
+  },
+  {
+    "objectID": "index.html#hi-im-aylin",
+    "href": "index.html#hi-im-aylin",
+    "title": "Aylin Gülüm",
+    "section": "",
+    "text": "I am a Data Scientist / ML Engineer, specializing in Computer Vision, Heterogenious (Sensor) Data Fusion, and Time Series Aggregation Analytics. My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights."
   }
 ]

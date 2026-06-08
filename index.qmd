@@ -1,7 +1,8 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+# Site metadata
+title: "Aylin Gülüm"
+description-meta: "Data Scientist | Computer Vision & EV Analytics Portfolio"
+# image: "files/images/placeholder4.JPG"  <-- Commented out
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,40 +13,19 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+  - icon: envelope
+    text: E-mail
+    href: mailto:aylinglm@proton.me
+    target: _blank
+  - icon: github
+    text: GitHub
+    href: https://github.com/Aylin1
+    target: _blank
+  - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com/in/aylin-gulum
+    target: _blank
+
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -67,34 +47,52 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+## 👋 Hi, I'm Aylin
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I am a **Data Scientist / ML Engineer**, specializing in **Computer Vision**, **Heterogenious (Sensor) Data Fusion**, and **Time Series Aggregation Analytics**. 
+My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights. 
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+---
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+## 🔬 Research & Projects
 
-## Experience
+### Forest Segmentation (M.Sc. Thesis)
+*Evaluating Impact of Data Augmentation on LiDAR + RGBI Fusion*
+- Achieved **IoU improvement: 70.4% → 75.1%** via multimodal fusion
+- Implemented U-Net variants (HRNet-inspired, FusionNet-inspired)
+- Extracted structural layers from 3D point cloud data
 
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
+### Railway Semantic Segmentation (RailSem19)
+- Built vegetation segmentation pipeline for digital twin concepts.
+- Compared HRNet vs. LangSAM performance with conceptual alert system for severity classification.
 
-## Education
+---
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+## 💼 Professional Experience
+
+| Role | Organization | Period | Key Contributions |
+| :--- | :--- | :--- | :--- |
+| Data Scientist | **The Mobility House GmbH** (Munich) | Dec 2023 – Sep 2024 | Built Python/SQL pipelines for EV charging session time-series data; fuzzy clustering for customer segmentation; Grafana KPI dashboards |
+| Data Analyst | **ADHOC Research & Consultancy** (Istanbul) | Jan 2019 – Feb 2020 | Analytical reports using Excel/SPSS; systematic data validation procedures across public/private sector clients |
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Machine Learning** | PyTorch, TensorFlow/Keras, scikit-learn, Fuzzy Clustering, RoBERTa |
+| **Computer Vision** | OpenCV, Albumentations, Rasterio, Semantic Segmentation, CNN, LiDAR Processing |
+| **Data Engineering** | Python, SQL, Pandas, Flask, Git/GitHub, Docker |
+| **Languages** | **Python (Primary)**, SQL, R | **Spoken:** English (C1), German (A2), Turkish (Native) |
+
+---
+
+## 📖 Education
+
+**M.Sc., Project Management & Data Science** | *HTW Berlin* | Oct 2022 – May 2025  
+**B.Sc., Molecular Biology and Genetics** | *Bogazici University* | Sep 2011 – Jan 2019
+
+---
 
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
