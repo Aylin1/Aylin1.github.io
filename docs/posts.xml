@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>Aylin Gülüm</title>
-<link>https://aylin1.github.io/aylingulum.github.io/posts.html</link>
-<atom:link href="https://aylin1.github.io/aylingulum.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<link>https://aylin1.github.io/posts.html</link>
+<atom:link href="https://aylin1.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Portfolio of Aylin Gülüm: data science, machine learning, computer vision, and LLM/RAG systems.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 25 Nov 2026 12:25:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:29:29 GMT</lastBuildDate>
 </channel>
 </rss>
