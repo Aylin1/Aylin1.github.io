@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Aylin Gülüm">
-<meta name="description" content="Data Scientist | Computer Vision &amp; EV Analytics Portfolio">
+<meta name="description" content="Data Scientist and ML Engineer working across analytics, computer vision, and LLM/RAG systems.">
 
 <title>Aylin Gülüm</title>
 <style>
@@ -187,10 +187,6 @@ window.Quarto = {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./files/Aylin_Gulum_CV.pdf" target="_blank"> 
-<span class="menu-text">CV</span></a>
-  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/Aylin1" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
@@ -251,21 +247,36 @@ window.Quarto = {
   <div class="about-contents"><div id="hero-heading">
 <section id="hi-im-aylin" class="level2">
 <h2 data-anchor-id="hi-im-aylin">👋 Hi, I’m Aylin</h2>
-<p>I am a <strong>Data Scientist / ML Engineer</strong>, specializing in <strong>Computer Vision</strong>, <strong>Heterogenious (Sensor) Data Fusion</strong>, and <strong>Time Series Aggregation Analytics</strong>. My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights.</p>
+<p>I am a <strong>Data Scientist / ML Engineer</strong> with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings.</p>
 <hr>
 </section>
-<section id="research-projects" class="level2">
-<h2 data-anchor-id="research-projects">🔬 Research &amp; Projects</h2>
-<section id="forest-segmentation-m.sc.-thesis" class="level3">
-<h3 data-anchor-id="forest-segmentation-m.sc.-thesis">Forest Segmentation (M.Sc. Thesis)</h3>
-<p><em>Evaluating Impact of Data Augmentation on LiDAR + RGBI Fusion</em> - Achieved <strong>IoU improvement: 70.4% → 75.1%</strong> via multimodal fusion - Implemented U-Net variants (HRNet-inspired, FusionNet-inspired) - Extracted structural layers from 3D point cloud data</p>
+<section id="projects" class="level2">
+<h2 data-anchor-id="projects">🔬 Projects</h2>
+<section id="universal-threat-responder" class="level3">
+<h3 data-anchor-id="universal-threat-responder">Universal Threat Responder</h3>
+<ul>
+<li>Built a Python threat-triage pipeline combining machine learning, conformal uncertainty, information retrieval, and local LLM reasoning.</li>
+<li>Added human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.</li>
+<li>Evaluated the system on <strong>3,960 emails</strong>: it automatically handled <strong>76%</strong> of cases at <strong>97% accuracy</strong> and reduced the threat-miss rate from <strong>4.6% to 0.6%</strong> versus the ML-only baseline.</li>
+</ul>
 </section>
 <section id="railway-semantic-segmentation-railsem19" class="level3">
 <h3 data-anchor-id="railway-semantic-segmentation-railsem19">Railway Semantic Segmentation (RailSem19)</h3>
 <ul>
-<li>Built vegetation segmentation pipeline for digital twin concepts.</li>
-<li>Compared HRNet vs.&nbsp;LangSAM performance with conceptual alert system for severity classification.</li>
+<li>Compared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving <strong>0.62 average IoU</strong>.</li>
+<li>Explored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.</li>
 </ul>
+</section>
+<section id="secom-equipment-fault-detection" class="level3">
+<h3 data-anchor-id="secom-equipment-fault-detection">SECOM Equipment Fault Detection</h3>
+<ul>
+<li>Prepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.</li>
+<li>Built and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.</li>
+</ul>
+</section>
+<section id="forest-segmentation-m.sc.-thesis" class="level3">
+<h3 data-anchor-id="forest-segmentation-m.sc.-thesis">Forest Segmentation (M.Sc. Thesis)</h3>
+<p><em>Evaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data</em></p>
 <hr>
 </section>
 </section>
@@ -288,16 +299,16 @@ window.Quarto = {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Data Scientist</td>
+<td style="text-align: left;">Data Scientist (Part-time)</td>
 <td style="text-align: left;"><strong>The Mobility House GmbH</strong> (Munich)</td>
 <td style="text-align: left;">Dec 2023 – Sep 2024</td>
-<td style="text-align: left;">Built Python/SQL pipelines for EV charging session time-series data; fuzzy clustering for customer segmentation; Grafana KPI dashboards</td>
+<td style="text-align: left;">Developed customer-segmentation personas; built Python/SQL time-series pipelines; maintained KPI dashboards and communicated findings to stakeholders</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Data Analyst</td>
+<td style="text-align: left;">Data Analyst (Full-time)</td>
 <td style="text-align: left;"><strong>ADHOC Research &amp; Consultancy</strong> (Istanbul)</td>
-<td style="text-align: left;">Jan 2019 – Feb 2020</td>
-<td style="text-align: left;">Analytical reports using Excel/SPSS; systematic data validation procedures across public/private sector clients</td>
+<td style="text-align: left;">Jan 2019 – Feb 2021</td>
+<td style="text-align: left;">Delivered client reports, validated survey data, created visualizations, and translated findings into recommendations</td>
 </tr>
 </tbody>
 </table>
@@ -318,20 +329,28 @@ window.Quarto = {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Machine Learning</strong></td>
-<td style="text-align: left;">PyTorch, TensorFlow/Keras, scikit-learn, Fuzzy Clustering, RoBERTa</td>
+<td style="text-align: left;"><strong>Programming</strong></td>
+<td style="text-align: left;">Python, SQL, R</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Computer Vision</strong></td>
-<td style="text-align: left;">OpenCV, Albumentations, Rasterio, Semantic Segmentation, CNN, LiDAR Processing</td>
+<td style="text-align: left;"><strong>Analytics &amp; Statistics</strong></td>
+<td style="text-align: left;">Descriptive and inferential statistics, experimental design, uncertainty quantification, KPI tracking, time-series analytics</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><strong>Data Engineering</strong></td>
-<td style="text-align: left;">Python, SQL, Pandas, Flask, Git/GitHub, Docker</td>
+<td style="text-align: left;"><strong>ML &amp; AI</strong></td>
+<td style="text-align: left;">Predictive modeling, classification, regression, clustering, anomaly detection, LLM/RAG systems</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Languages</strong></td>
-<td style="text-align: left;"><strong>Python (Primary)</strong>, SQL, R</td>
+<td style="text-align: left;"><strong>Data Engineering</strong></td>
+<td style="text-align: left;">ETL, automated pipelines, data parsing and validation, preprocessing, feature engineering, unit testing</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Frameworks &amp; Tools</strong></td>
+<td style="text-align: left;">pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Hugging Face, LangGraph, Ollama, AWS, GCP, MySQL, Tableau, Grafana, Streamlit, Flask, dbt</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Spoken Languages</strong></td>
+<td style="text-align: left;">English (C1), German (A2), Turkish (Native)</td>
 </tr>
 </tbody>
 </table>
@@ -339,8 +358,17 @@ window.Quarto = {
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">📖 Education</h2>
-<p><strong>M.Sc., Project Management &amp; Data Science</strong> | <em>HTW Berlin</em> | Oct 2022 – May 2025<br>
-<strong>B.Sc., Molecular Biology and Genetics</strong> | <em>Bogazici University</em> | Sep 2011 – Jan 2019</p>
+<p><strong>M.Sc., Project Management &amp; Data Science</strong> | <em>HTW Berlin, Germany</em> | Oct 2022 – May 2025<br> <strong>B.Sc., Molecular Biology and Genetics</strong> | <em>Boğaziçi University, Istanbul, Turkey</em> | Sep 2011 – Jan 2019</p>
+<hr>
+</section>
+<section id="contact" class="level2">
+<h2 data-anchor-id="contact">Contact</h2>
+<p>Email: <script type="text/javascript">
+<!--
+h='&#112;&#114;&#x6f;&#116;&#x6f;&#110;&#46;&#x6d;&#x65;';a='&#64;';n='&#x61;&#x79;&#108;&#x69;&#110;&#x67;&#108;&#x6d;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>aylinglm at proton dot me</noscript> · <a href="https://github.com/Aylin1">GitHub</a> · <a href="https://linkedin.com/in/aylin-gulum">LinkedIn</a></p>
 <hr>
 </section>
 </div></div>
@@ -423,7 +451,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/aylin1\.github\.io\/aylingulum\.github\.io");
+        var filterRegex = new RegExp("https:\/\/aylin1\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

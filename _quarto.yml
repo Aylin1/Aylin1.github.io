@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs
 
-description-meta: "Aylin Gülüm - Data Scientist Portfolio"
+description-meta: "Aylin Gülüm - Data Scientist and ML Engineer"
 author-meta: "Aylin Gülüm"
 
 website:
   title: "Aylin Gülüm"
-  description: "Portfolio of Aylin Gülüm: Data Science, Computer Vision & EV Analytics."
+  description: "Portfolio of Aylin Gülüm: data science, machine learning, computer vision, and LLM/RAG systems."
 
   # Global Settings (Fixed Indentation)
   reader-mode: true # Moved here! This was causing the crash
@@ -36,9 +36,6 @@ website:
       - text: Contact
         href: index.qmd#contact
     right:
-      - text: CV
-        href: files/Aylin_Gulum_CV.pdf
-        target: _blank
       - icon: github
         href: https://github.com/Aylin1
         target: _blank
@@ -53,8 +50,8 @@ website:
       - icon: github
         href: https://github.com/Aylin1
 
-  repo-url: https://github.com/Aylin1/aylingulum.github.io
-  site-url: "https://aylin1.github.io/aylingulum.github.io"
+  repo-url: https://github.com/Aylin1/Aylin1.github.io
+  site-url: "https://aylin1.github.io/"
   open-graph: false
   twitter-card: false
 

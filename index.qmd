@@ -1,7 +1,7 @@
 ---
 # Site metadata
 title: "Aylin Gülüm"
-description-meta: "Data Scientist | Computer Vision & EV Analytics Portfolio"
+description-meta: "Data Scientist and ML Engineer working across analytics, computer vision, and LLM/RAG systems."
 # image: "files/images/placeholder4.JPG"  <-- Commented out
 page-navigation: false
 toc: false
@@ -49,22 +49,27 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 ## 👋 Hi, I'm Aylin
 
-I am a **Data Scientist / ML Engineer**, specializing in **Computer Vision**, **Heterogenious (Sensor) Data Fusion**, and **Time Series Aggregation Analytics**. 
-My work bridges academic research and industrial implementation, transforming complex multimodal data into actionable insights. 
+I am a **Data Scientist / ML Engineer** with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings.
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Projects
 
-### Forest Segmentation (M.Sc. Thesis)
-*Evaluating Impact of Data Augmentation on LiDAR + RGBI Fusion*
-- Achieved **IoU improvement: 70.4% → 75.1%** via multimodal fusion
-- Implemented U-Net variants (HRNet-inspired, FusionNet-inspired)
-- Extracted structural layers from 3D point cloud data
+### Universal Threat Responder
+- Built a Python threat-triage pipeline combining machine learning, conformal uncertainty, information retrieval, and local LLM reasoning.
+- Added human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.
+- Evaluated the system on **3,960 emails**: it automatically handled **76%** of cases at **97% accuracy** and reduced the threat-miss rate from **4.6% to 0.6%** versus the ML-only baseline.
 
 ### Railway Semantic Segmentation (RailSem19)
-- Built vegetation segmentation pipeline for digital twin concepts.
-- Compared HRNet vs. LangSAM performance with conceptual alert system for severity classification.
+- Compared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving **0.62 average IoU**.
+- Explored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.
+
+### SECOM Equipment Fault Detection
+- Prepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.
+- Built and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.
+
+### Forest Segmentation (M.Sc. Thesis)
+*Evaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data*
 
 ---
 
@@ -72,8 +77,8 @@ My work bridges academic research and industrial implementation, transforming co
 
 | Role | Organization | Period | Key Contributions |
 | :--- | :--- | :--- | :--- |
-| Data Scientist | **The Mobility House GmbH** (Munich) | Dec 2023 – Sep 2024 | Built Python/SQL pipelines for EV charging session time-series data; fuzzy clustering for customer segmentation; Grafana KPI dashboards |
-| Data Analyst | **ADHOC Research & Consultancy** (Istanbul) | Jan 2019 – Feb 2020 | Analytical reports using Excel/SPSS; systematic data validation procedures across public/private sector clients |
+| Data Scientist (Part-time) | **The Mobility House GmbH** (Munich) | Dec 2023 – Sep 2024 | Developed customer-segmentation personas; built Python/SQL time-series pipelines; maintained KPI dashboards and communicated findings to stakeholders |
+| Data Analyst (Full-time) | **ADHOC Research & Consultancy** (Istanbul) | Jan 2019 – Feb 2021 | Delivered client reports, validated survey data, created visualizations, and translated findings into recommendations |
 
 ---
 
@@ -81,17 +86,25 @@ My work bridges academic research and industrial implementation, transforming co
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Machine Learning** | PyTorch, TensorFlow/Keras, scikit-learn, Fuzzy Clustering, RoBERTa |
-| **Computer Vision** | OpenCV, Albumentations, Rasterio, Semantic Segmentation, CNN, LiDAR Processing |
-| **Data Engineering** | Python, SQL, Pandas, Flask, Git/GitHub, Docker |
-| **Languages** | **Python (Primary)**, SQL, R | **Spoken:** English (C1), German (A2), Turkish (Native) |
+| **Programming** | Python, SQL, R |
+| **Analytics & Statistics** | Descriptive and inferential statistics, experimental design, uncertainty quantification, KPI tracking, time-series analytics |
+| **ML & AI** | Predictive modeling, classification, regression, clustering, anomaly detection, LLM/RAG systems |
+| **Data Engineering** | ETL, automated pipelines, data parsing and validation, preprocessing, feature engineering, unit testing |
+| **Frameworks & Tools** | pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Hugging Face, LangGraph, Ollama, AWS, GCP, MySQL, Tableau, Grafana, Streamlit, Flask, dbt |
+| **Spoken Languages** | English (C1), German (A2), Turkish (Native) |
 
 ---
 
 ## 📖 Education
 
-**M.Sc., Project Management & Data Science** | *HTW Berlin* | Oct 2022 – May 2025  
-**B.Sc., Molecular Biology and Genetics** | *Bogazici University* | Sep 2011 – Jan 2019
+**M.Sc., Project Management & Data Science** | *HTW Berlin, Germany* | Oct 2022 – May 2025<br>
+**B.Sc., Molecular Biology and Genetics** | *Boğaziçi University, Istanbul, Turkey* | Sep 2011 – Jan 2019
+
+---
+
+## Contact {#contact}
+
+Email: [aylinglm@proton.me](mailto:aylinglm@proton.me) · [GitHub](https://github.com/Aylin1) · [LinkedIn](https://linkedin.com/in/aylin-gulum)
 
 ---
 
