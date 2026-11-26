@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - reader-mode.js
 
 description-meta: "Aylin Gülüm - Data Scientist and ML Engineer"
 author-meta: "Aylin Gülüm"
@@ -20,6 +22,7 @@ website:
 
   navbar:
     background: light
+    title: false
     left:
       - text: Home
         href: index.qmd
@@ -40,7 +43,7 @@ website:
         href: https://github.com/Aylin1
         target: _blank
       - icon: linkedin
-        href: https://linkedin.com/in/aylingulum
+        href: https://www.linkedin.com/in/aylingulum/
         target: _blank
 
   page-footer:
@@ -58,6 +61,9 @@ format:
   html:
     theme: lumen
     css: styles.css
+    include-in-header:
+      text: |
+        <script src="reader-mode.js" defer></script>
     toc: true
     fig-align: center
     code-copy: true

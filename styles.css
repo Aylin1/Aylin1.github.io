@@ -1,6 +1,41 @@
-/* css styles */
-@media (min-width: 992px) {
-  div.quarto-about-trestles .about-entity {
-    flex-basis: 30%;
+.project-github {
+  display: inline-block;
+  padding: 0.4rem 0.85rem;
+  border-radius: 0.3rem;
+  background: #315d8a;
+  color: #fff;
+  text-decoration: none;
+}
+
+.project-github:hover,
+.project-github:focus-visible {
+  background: #234566;
+  color: #fff;
+}
+
+.quarto-reader-toggle {
+  display: inline-block !important;
+}
+
+body.site-reader-mode #navbarCollapse,
+body.site-reader-mode .navbar-toggler,
+body.site-reader-mode #quarto-search,
+body.site-reader-mode #quarto-margin-sidebar,
+body.site-reader-mode #quarto-sidebar,
+body.site-reader-mode .nav-footer {
+  display: none !important;
+}
+
+body.site-reader-mode main.content {
+  width: 100%;
+  min-width: 0;
+  max-width: 75ch;
+  margin-inline: auto;
+}
+
+@media (max-width: 767px) {
+  main.content table {
+    display: block;
+    overflow-x: auto;
   }
 }

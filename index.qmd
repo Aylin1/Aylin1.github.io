@@ -8,25 +8,6 @@ toc: false
 #sidebar: false
 page-layout: full
 
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-  - icon: envelope
-    text: E-mail
-    href: mailto:aylinglm@proton.me
-    target: _blank
-  - icon: github
-    text: GitHub
-    href: https://github.com/Aylin1
-    target: _blank
-  - icon: linkedin
-    text: LinkedIn
-    href: https://linkedin.com/in/aylin-gulum
-    target: _blank
-
-
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
     contents: 
@@ -45,7 +26,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
       - "title asc"
 ---
 
-:::{#hero-heading}
+[E-mail](mailto:aylinglm@proton.me) · [GitHub](https://github.com/Aylin1) · [LinkedIn](https://www.linkedin.com/in/aylingulum/)
 
 ## Data science, from analysis to action
 
@@ -60,20 +41,28 @@ I am a **Data Scientist / ML Engineer** with experience building Python- and SQL
 - Added human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.
 - Evaluated the system on **3,960 emails**: it automatically handled **76%** of cases at **97% accuracy** and reduced the threat-miss rate from **4.6% to 0.6%** versus the ML-only baseline.
 
+[View on GitHub](https://github.com/Aylin1/universal-threat-responder){.project-github}
+
 ### Railway Semantic Segmentation (RailSem19)
 - Compared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving **0.62 average IoU**.
 - Explored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.
+
+[View on GitHub](https://github.com/Aylin1/Railsem19){.project-github}
 
 ### SECOM Equipment Fault Detection
 - Prepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.
 - Built and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.
 
+[View on GitHub](https://github.com/Aylin1/SECOM_Project){.project-github}
+
 ### Forest Segmentation (M.Sc. Thesis)
 *Evaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data*
 
+[View on GitHub](https://github.com/Aylin1/Masters_Docs){.project-github}
+
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience {#experience}
 
 | Role | Organization | Period | Key Contributions |
 | :--- | :--- | :--- | :--- |
@@ -104,8 +93,6 @@ I am a **Data Scientist / ML Engineer** with experience building Python- and SQL
 
 ## Contact {#contact}
 
-Email: [aylinglm@proton.me](mailto:aylinglm@proton.me) · [GitHub](https://github.com/Aylin1) · [LinkedIn](https://linkedin.com/in/aylin-gulum)
+Email: [aylinglm@proton.me](mailto:aylinglm@proton.me) · [GitHub](https://github.com/Aylin1) · [LinkedIn](https://www.linkedin.com/in/aylingulum/)
 
 ---
-
-:::

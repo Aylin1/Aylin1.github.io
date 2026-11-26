@@ -60,49 +60,49 @@
     "href": "index.html",
     "title": "Aylin Gülüm",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nI am a Data Scientist / ML Engineer with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings.\n\n\n\n\n\n\n\nBuilt a Python threat-triage pipeline combining machine learning, conformal uncertainty, information retrieval, and local LLM reasoning.\nAdded human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.\nEvaluated the system on 3,960 emails: it automatically handled 76% of cases at 97% accuracy and reduced the threat-miss rate from 4.6% to 0.6% versus the ML-only baseline.\n\n\n\n\n\nCompared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving 0.62 average IoU.\nExplored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.\n\n\n\n\n\nPrepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.\nBuilt and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.\n\n\n\n\nEvaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRole\nOrganization\nPeriod\nKey Contributions\n\n\n\n\nData Scientist (Part-time)\nThe Mobility House GmbH (Munich)\nDec 2023 – Sep 2024\nDeveloped customer-segmentation personas; built Python/SQL time-series pipelines; maintained KPI dashboards and communicated findings to stakeholders\n\n\nData Analyst (Full-time)\nADHOC Research & Consultancy (Istanbul)\nJan 2019 – Feb 2021\nDelivered client reports, validated survey data, created visualizations, and translated findings into recommendations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDomain\nTools & Technologies\n\n\n\n\nProgramming\nPython, SQL, R\n\n\nAnalytics & Statistics\nDescriptive and inferential statistics, experimental design, uncertainty quantification, KPI tracking, time-series analytics\n\n\nML & AI\nPredictive modeling, classification, regression, clustering, anomaly detection, LLM/RAG systems\n\n\nData Engineering\nETL, automated pipelines, data parsing and validation, preprocessing, feature engineering, unit testing\n\n\nFrameworks & Tools\npandas, NumPy, scikit-learn, TensorFlow, PyTorch, Hugging Face, LangGraph, Ollama, AWS, GCP, MySQL, Tableau, Grafana, Streamlit, Flask, dbt\n\n\nSpoken Languages\nEnglish (C1), German (A2), Turkish (Native)\n\n\n\n\n\n\n\nM.Sc., Project Management & Data Science | HTW Berlin, Germany | Oct 2022 – May 2025 B.Sc., Molecular Biology and Genetics | Boğaziçi University, Istanbul, Turkey | Sep 2011 – Jan 2019\n\n\n\n\nEmail: aylinglm at proton dot me · GitHub · LinkedIn"
+    "text": "E-mail (aylinglm at proton dot me) · GitHub · LinkedIn"
   },
   {
-    "objectID": "index.html#hi-im-aylin",
-    "href": "index.html#hi-im-aylin",
+    "objectID": "index.html#data-science-from-analysis-to-action",
+    "href": "index.html#data-science-from-analysis-to-action",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "I am a Data Scientist / ML Engineer with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings."
+    "section": "Data science, from analysis to action",
+    "text": "Data science, from analysis to action\nI am a Data Scientist / ML Engineer with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings."
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "Built a Python threat-triage pipeline combining machine learning, conformal uncertainty, information retrieval, and local LLM reasoning.\nAdded human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.\nEvaluated the system on 3,960 emails: it automatically handled 76% of cases at 97% accuracy and reduced the threat-miss rate from 4.6% to 0.6% versus the ML-only baseline.\n\n\n\n\n\nCompared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving 0.62 average IoU.\nExplored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.\n\n\n\n\n\nPrepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.\nBuilt and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.\n\n\n\n\nEvaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data"
+    "section": "🔬 Projects",
+    "text": "🔬 Projects\n\nUniversal Threat Responder\n\nBuilt a Python threat-triage pipeline combining machine learning, conformal uncertainty, information retrieval, and local LLM reasoning.\nAdded human review for ambiguous predictions and ML/LLM disagreements, with a locally hosted browser dashboard.\nEvaluated the system on 3,960 emails: it automatically handled 76% of cases at 97% accuracy and reduced the threat-miss rate from 4.6% to 0.6% versus the ML-only baseline.\n\nView on GitHub\n\n\nRailway Semantic Segmentation (RailSem19)\n\nCompared pretrained HRNet and LangSAM zero-shot segmentation for vegetation detection in railway imagery, achieving 0.62 average IoU.\nExplored a monitoring pipeline combining image analysis, GPS metadata, and severity-based maintenance alerts.\n\nView on GitHub\n\n\nSECOM Equipment Fault Detection\n\nPrepared high-dimensional semiconductor sensor data, selected features, and reduced dimensionality.\nBuilt and compared Logistic Regression, Random Forest, and SVM models with hyperparameter optimization, considering class imbalance and generalization.\n\nView on GitHub\n\n\nForest Segmentation (M.Sc. Thesis)\nEvaluating the Impact of Data Augmentation on Forest Segmentation Using Aerial Imagery and LiDAR Data\nView on GitHub"
   },
   {
-    "objectID": "index.html#professional-experience",
-    "href": "index.html#professional-experience",
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "Role\nOrganization\nPeriod\nKey Contributions\n\n\n\n\nData Scientist (Part-time)\nThe Mobility House GmbH (Munich)\nDec 2023 – Sep 2024\nDeveloped customer-segmentation personas; built Python/SQL time-series pipelines; maintained KPI dashboards and communicated findings to stakeholders\n\n\nData Analyst (Full-time)\nADHOC Research & Consultancy (Istanbul)\nJan 2019 – Feb 2021\nDelivered client reports, validated survey data, created visualizations, and translated findings into recommendations"
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n\n\n\n\n\n\n\n\n\nRole\nOrganization\nPeriod\nKey Contributions\n\n\n\n\nData Scientist (Part-time)\nThe Mobility House GmbH (Munich)\nDec 2023 – Sep 2024\nDeveloped customer-segmentation personas; built Python/SQL time-series pipelines; maintained KPI dashboards and communicated findings to stakeholders\n\n\nData Analyst (Full-time)\nADHOC Research & Consultancy (Istanbul)\nJan 2019 – Feb 2021\nDelivered client reports, validated survey data, created visualizations, and translated findings into recommendations"
   },
   {
     "objectID": "index.html#technical-toolkit",
     "href": "index.html#technical-toolkit",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "Domain\nTools & Technologies\n\n\n\n\nProgramming\nPython, SQL, R\n\n\nAnalytics & Statistics\nDescriptive and inferential statistics, experimental design, uncertainty quantification, KPI tracking, time-series analytics\n\n\nML & AI\nPredictive modeling, classification, regression, clustering, anomaly detection, LLM/RAG systems\n\n\nData Engineering\nETL, automated pipelines, data parsing and validation, preprocessing, feature engineering, unit testing\n\n\nFrameworks & Tools\npandas, NumPy, scikit-learn, TensorFlow, PyTorch, Hugging Face, LangGraph, Ollama, AWS, GCP, MySQL, Tableau, Grafana, Streamlit, Flask, dbt\n\n\nSpoken Languages\nEnglish (C1), German (A2), Turkish (Native)"
+    "section": "🛠️ Technical Toolkit",
+    "text": "🛠️ Technical Toolkit\n\n\n\n\n\n\n\nDomain\nTools & Technologies\n\n\n\n\nProgramming\nPython, SQL, R\n\n\nAnalytics & Statistics\nDescriptive and inferential statistics, experimental design, uncertainty quantification, KPI tracking, time-series analytics\n\n\nML & AI\nPredictive modeling, classification, regression, clustering, anomaly detection, LLM/RAG systems\n\n\nData Engineering\nETL, automated pipelines, data parsing and validation, preprocessing, feature engineering, unit testing\n\n\nFrameworks & Tools\npandas, NumPy, scikit-learn, TensorFlow, PyTorch, Hugging Face, LangGraph, Ollama, AWS, GCP, MySQL, Tableau, Grafana, Streamlit, Flask, dbt\n\n\nSpoken Languages\nEnglish (C1), German (A2), Turkish (Native)"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "M.Sc., Project Management & Data Science | HTW Berlin, Germany | Oct 2022 – May 2025 B.Sc., Molecular Biology and Genetics | Boğaziçi University, Istanbul, Turkey | Sep 2011 – Jan 2019"
+    "section": "📖 Education",
+    "text": "📖 Education\nM.Sc., Project Management & Data Science | HTW Berlin, Germany | Oct 2022 – May 2025 B.Sc., Molecular Biology and Genetics | Boğaziçi University, Istanbul, Turkey | Sep 2011 – Jan 2019"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Aylin Gülüm",
-    "section": "",
-    "text": "Email: aylinglm at proton dot me · GitHub · LinkedIn"
+    "section": "Contact",
+    "text": "Contact\nEmail: aylinglm at proton dot me · GitHub · LinkedIn"
   },
   {
     "objectID": "contact.html",
