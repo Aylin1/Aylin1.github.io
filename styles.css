@@ -1,1 +1,6 @@
 /* css styles */
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity {
+    flex-basis: 30%;
+  }
+}

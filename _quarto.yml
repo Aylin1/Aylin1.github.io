@@ -40,11 +40,10 @@ website:
         href: https://github.com/Aylin1
         target: _blank
       - icon: linkedin
-        href: https://linkedin.com/in/aylin-gulum
+        href: https://linkedin.com/in/aylingulum
         target: _blank
 
   page-footer:
-    left: "[Aylin Gülüm](https://github.com/Aylin1)"
     center: "Built with Quarto"
     right:
       - icon: github
@@ -57,7 +56,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
+    css: styles.css
     toc: true
     fig-align: center
     code-copy: true

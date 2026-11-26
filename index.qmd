@@ -47,7 +47,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-## 👋 Hi, I'm Aylin
+## Data science, from analysis to action
 
 I am a **Data Scientist / ML Engineer** with experience building Python- and SQL-based analytics pipelines and machine-learning workflows. My work spans customer segmentation, time-series analytics, data-quality validation, computer vision, fault detection, and LLM/RAG-based decision support. I collaborate with business, research, and client teams to turn questions into clear analyses and actionable findings.
 
